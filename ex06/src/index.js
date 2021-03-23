@@ -1,7 +1,7 @@
 // Only change code below this line
 const arena = () => {
   "use strict";
-  return Date();
+  return new Date();
 };
 // Only change code above this line
 console.log(arena());
